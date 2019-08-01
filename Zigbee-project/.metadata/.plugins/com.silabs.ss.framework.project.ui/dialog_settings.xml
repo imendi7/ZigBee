@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.silabs.ss.framework.ide.project.core.cdtMbsProjectType">
+		<item value="LINK_LIBRARIES" key="settingImportModeOption"/>
+		<item value="true" key="filterTemplatesByPartSdk"/>
+		<item value="template.esf.com.silabs.template.external.com.silabs.sdk.stack.super.znet.EmberZNet 6.6.0.0 GA SoC.Z3Switch_2.6.0._-71365454.6.6.0._165278793" key="selectedTemplateId"/>
+		<item value="true" key="filterTemplatesByToolchain"/>
+	</section>
+</section>

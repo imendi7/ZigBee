@@ -1,0 +1,150 @@
+# !SESSION 2019-07-01 10:49:56.005
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-8 | 2019-07-01 10:49:56.005 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-02 09:34:31.604
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-8 | 2019-07-02 09:34:31.604 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-03 09:32:23.772
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-6 | 2019-07-03 09:32:23.772 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-08 11:34:43.900
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-7 | 2019-07-08 11:34:43.900 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-08 11:53:44.866
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-3 | 2019-07-08 11:53:44.866 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-08 12:12:53.910
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-9 | 2019-07-08 12:12:53.910 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-08 15:40:43.762
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-8 | 2019-07-08 15:40:43.762 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-08 16:40:51.306
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-7 | 2019-07-08 16:40:51.306 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-08 21:28:04.961
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-10 | 2019-07-08 21:28:04.961 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-15 08:47:21.002
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-5 | 2019-07-15 08:47:21.002 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-15 17:43:44.111
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-9 | 2019-07-15 17:43:44.111 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-16 09:24:06.079
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-3 | 2019-07-16 09:24:06.079 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-16 14:21:12.397
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-7 | 2019-07-16 14:21:12.397 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-18 11:26:21.912
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-6 | 2019-07-18 11:26:21.912 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-18 15:25:28.574
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-8 | 2019-07-18 15:25:28.574 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-19 10:59:53.775
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-7 | 2019-07-19 10:59:53.775 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-19 11:39:41.038
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-12 | 2019-07-19 11:39:41.038 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-19 14:46:05.366
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-9 | 2019-07-19 14:46:05.366 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-19 15:18:25.178
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-9 | 2019-07-19 15:18:25.178 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-19 15:34:22.553
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-6 | 2019-07-19 15:34:22.553 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-22 13:37:46.825
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-6 | 2019-07-22 13:37:46.825 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-22 13:39:01.632
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-6 | 2019-07-22 13:39:01.632 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-24 10:37:28.230
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-7 | 2019-07-24 10:37:28.230 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-25 11:23:27.668
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-7 | 2019-07-25 11:23:27.668 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |
+# !SESSION 2019-07-26 14:20:45.154
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	null
+| Worker-5 | 2019-07-26 14:20:45.154 | com.iar.ide.common | /debug | com.iar.ide.common.logging.Logger | traceFile | 194 | SDK location does not exist: null |

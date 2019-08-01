@@ -1,0 +1,352 @@
+RROR: tx 66, Profile: HA (0x0104), Cluster: 0x0006, 3 bytes, ZCL Cluster Cmd ID: 2
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 5E 02 
+Z3SwitchSoc_5>Send to bindings: 0x00
+T00000000:TX (CLI) Ucast 0x00
+TX buffer: [01 5E 02 ]
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+ERROR: tx 66, Profile: HA (0x0104), Cluster: 0x0006, 3 bytes, ZCL Cluster Cmd ID: 2
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 6C 02 
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+T00000000:TX (CLI) Ucast 0x00
+TX buffer: [01 6C 02 ]
+Z3SwitchSoc_5>Processing message: len=3 profile=0104 cluster=0006
+
+T00000000:RX len 3, ep 0B, clus 0x0006 (On/off) FC 01 seq 6C cmd 02 payload[]
+Drop cluster 0x0006 command 0x02 due to invalid endpoint: 0x0B
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 76 02 
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+T00000000:TX (CLI) Ucast 0x00
+TX buffer: [01 76 02 ]
+Z3SwitchSoc_5>Processing message: len=3 profile=0104 cluster=0006
+
+T00000000:RX len 3, ep 01, clus 0x0006 (On/off) FC 01 seq 76 cmd 02 payload[]
+T00000000:TX (resp) Ucast 0x00
+TX buffer: [08 76 0B 02 C3 ]
+Processing message: len=5 profile=0104 cluster=0006
+
+T00000000:RX len 5, ep 02, clus 0x0006 (On/off) FC 08 seq 76 cmd 0B payload[02 C3 ]
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 06 02 
+Z3SwitchSoc_5>T00000000:TX (CLI) Ucast 0x00
+TX buffer: [01 06 02 ]
+Z3SwitchSoc_5>Processing message: len=3 profile=0104 cluster=0006
+
+T00000000:RX len 3, ep 01, clus 0x0006 (On/off) FC 01 seq 06 cmd 02 payload[]
+T00000000:TX (resp) Ucast 0x00
+TX buffer: [08 06 0B 02 C3 ]
+Processing message: len=5 profile=0104 cluster=0006
+
+T00000000:RX len 5, ep 02, clus 0x0006 (On/off) FC 08 seq 06 cmd 0B payload[02 C3 ]
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+no cmd
+Z3SwitchSoc_5>Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 11 02 
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+T00000000:TX (CLI) Ucast 0x00
+TX buffer: [01 11 02 ]
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+ERROR: tx 66, Profile: HA (0x0104), Cluster: 0x0006, 3 bytes, ZCL Cluster Cmd ID: 2
+Send to bindings: 0x00
+Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 1D 02 
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+T00000000:TX (CLI) Ucast 0x00
+TX buffer: [01 1D 02 ]
+Z3SwitchSoc_5>Processing message: len=3 profile=0104 cluster=0006
+
+T00000000:RX len 3, ep 01, clus 0x0006 (On/off) FC 01 seq 1D cmd 02 payload[]
+T00000000:TX (resp) Ucast 0x00
+TX buffer: [08 1D 0B 02 C3 ]
+Processing message: len=5 profile=0104 cluster=0006
+
+T00000000:RX len 5, ep 01, clus 0x0006 (On/off) FC 08 seq 1D cmd 0B payload[02 C3 ]
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+no cmd
+Z3SwitchSoc_5>Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 24 02 
+Z3SwitchSoc_5>Send to bindings: 0x00
+T00000000:TX (CLI) Ucast 0x00
+TX buffer: [01 24 02 ]
+Z3SwitchSoc_5>Processing message: len=3 profile=0104 cluster=0006
+
+T00000000:RX len 3, ep 02, clus 0x0006 (On/off) FC 01 seq 24 cmd 02 payload[]
+T00000000:TX (resp) Ucast 0x00
+TX buffer: [08 24 0B 02 C3 ]
+Processing message: len=5 profile=0104 cluster=0006
+
+T00000000:RX len 5, ep 01, clus 0x0006 (On/off) FC 08 seq 24 cmd 0B payload[02 C3 ]
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 2A 02 
+Z3SwitchSoc_5>Send to bindings: 0x00
+T00000000:TX (CLI) Ucast 0x00
+TX buffer: [01 2A 02 ]
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+ERROR: tx 66, Profile: HA (0x0104), Cluster: 0x0006, 3 bytes, ZCL Cluster Cmd ID: 2
+Send to bindings: 0x00
+Send to bindings: 0x00
+Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 36 02 
+Z3SwitchSoc_5>Send to bindings: 0x00
+T00000000:TX (CLI) Ucast 0x00
+TX buffer: [01 36 02 ]
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+ERROR: tx 66, Profile: HA (0x0104), Cluster: 0x0006, 3 bytes, ZCL Cluster Cmd ID: 2
+Send to bindings: 0x00
+Send to bindings: 0x00
+Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 43 02 
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+T00000000:TX (CLI) Ucast 0x00
+TX buffer: [01 43 02 ]
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+ERROR: tx 66, Profile: HA (0x0104), Cluster: 0x0006, 3 bytes, ZCL Cluster Cmd ID: 2
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 56 02 
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+EMBER_SECURITY_LEVEL: 05
+NWK Key out FC: 0000003E
+NWK Key seq num: 0x00
+NWK Key: E7 AF B4 D7 12 32 6E 3B  7E 4D 6B 99 E7 A1 C5 43  
+Link Key out FC: 0000000F
+TC Link Key
+Index IEEE Address         In FC     Type  Auth  Key
+-     (>)FFFFFFFFFFFFFFFF  00000000  L     y     D0 D1 D2 D3 D4 D5 D6 D7  D8 D9 DA DB DC DD DE DF  
+Link Key Table
+Index IEEE Address         In FC     Type  Auth  Key
+0/0 entries used.
+Transient Key Table
+Index IEEE Address         In FC     TTL(s) Flag    Key    
+0 entry consuming 0 packet buffer.
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 6E 02 
+Z3SwitchSoc_5>Send to bindings: 0x00
+T00000000:TX (CLI) Ucast 0x00
+TX buffer: [01 6E 02 ]
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+ERROR: tx 66, Profile: HA (0x0104), Cluster: 0x0006, 3 bytes, ZCL Cluster Cmd ID: 2
+Send to bindings: 0x00
+Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 78 02 
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+T00000000:TX (CLI) Ucast 0x00
+TX buffer: [01 78 02 ]
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+ERROR: tx 66, Profile: HA (0x0104), Cluster: 0x0006, 3 bytes, ZCL Cluster Cmd ID: 2
+Send to bindings: 0x00
+Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 04 02 
+Z3SwitchSoc_5>Send to bindings: 0x00
+T00000000:TX (CLI) Ucast 0x00
+TX buffer: [01 04 02 ]
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+ERROR: tx 66, Profile: HA (0x0104), Cluster: 0x0006, 3 bytes, ZCL Cluster Cmd ID: 2
+Send to bindings: 0x00
+Msg: clus 0x0006, cmd 0x02, len 3
+buffer: 01 0F 02 
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+T00000000:TX (CLI) Ucast 0x00
+TX buffer: [01 0F 02 ]
+Z3SwitchSoc_5>Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+ERROR: tx 66, Profile: HA (0x0104), Cluster: 0x0006, 3 bytes, ZCL Cluster Cmd ID: 2
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+Send to bindings: 0x00
+
