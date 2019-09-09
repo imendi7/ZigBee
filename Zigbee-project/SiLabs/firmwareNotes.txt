@@ -1,0 +1,53 @@
+blank_afv2_2>NWK Creator Security: Open network: 0x01
+blank_afv2_2>NWK Creator: Form: 0x00
+blank_afv2_2>NWK Creator Security: Start: 0x00
+EMBER_NETWORK_UP 0x0000
+NWK Creator: Form. Channel: 20. Status: 0x00
+NWK Creator: Stop. Status: 0x00. State: 0x00
+blank_afv2_2>blank_afv2_2>NWK Creator Security: Open network: 0x00
+blank_afv2_2>pJoin for 254 sec: 0x00
+NWK Creator Security: Open network: 0x00
+
+
+
+
+if "plugin network-creator start 1" has not been sent, "plugin network-creator-security open-network" outputs:
+	Open network: 0x01
+otherwise it outputs:
+	NWK Creator Security: Open network: 0x00
+	pJoin for 254 sec: 0x00
+	NWK Creator Security: Open network: 0x00
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+if "emberAfPluginNetworkCreatorStart" is called in "emberAfMainStartCallback" the returned status value is 0x70 ->  EMBERINVALIDCALL: The API call is not allowed given the current state of the stack
+
+/*
+boolean emberAfMainStartCallback(int* returnCode,
+                                 int argc,
+                                 char** argv)
+{
+
+	EmberStatus statusCreated;
+	bool centralizedNetwork;
+
+	centralizedNetwork = true;
+	statusCreated = emberAfPluginNetworkCreatorStart(centralizedNetwork);
+
+	while (true){
+		emberAfCorePrintln("callbackStatus: 0x%x", statusCreated);
+	}
+
+
+  return false;  // exit?
+}*/
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
